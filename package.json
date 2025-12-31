@@ -1,0 +1,25 @@
+{
+  "name": "jacks-roofing-llc",
+  "version": "1.0.0",
+  "description": "Professional website for Jack's Roofing LLC, a roofing service company.",
+  "homepage": "https://github.com/GetLaunchedAi/jacks-roofing#readme",
+  "bugs": {
+    "url": "https://github.com/GetLaunchedAi/jacks-roofing/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GetLaunchedAi/jacks-roofing.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -p 3000 -o",
+    "dev": "http-server -p 3000 -o",
+    "serve": "http-server -p 3000"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}

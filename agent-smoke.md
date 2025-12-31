@@ -1,18 +1,18 @@
-# Task: Test Task for Jacks Roofing LLC
+# Task: something
 
-**ClickUp Task**: https://app.clickup.com/t/test-task
-**Task ID**: test-task-id
+**ClickUp Task**: https://app.clickup.com/t/86b7yt9z5
+**Task ID**: 86b7yt9z5
 **Status**: in progress
-**Branch**: test-branch-1767141581140
+
 
 ## Description
-This is a test task for the Jacks Roofing LLC website.
+Change the footer of the website to orange
 
 ## Requirements
 Review the task description above and identify all requirements.
 
 ## Suggested Changes
-Review the task description to identify necessary code changes.
+- Update existing code
 
 ## Files to Review/Modify
 Review the codebase structure and identify files that need to be modified based on the task.

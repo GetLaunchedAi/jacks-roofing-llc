@@ -18,6 +18,27 @@ This is a simple, responsive landing page for Jack's Roofing LLC featuring:
 
 ## Local Development
 
+### Option 1: Using npm (Recommended)
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Start the development server:
+```bash
+npm start
+```
+
+Or use:
+```bash
+npm run dev
+```
+
+The site will open automatically in your browser at `http://localhost:3000`
+
+### Option 2: Simple Method
+
 Simply open `index.html` in a web browser to view the site.
 
 ## Technologies
