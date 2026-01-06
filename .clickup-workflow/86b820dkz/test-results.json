@@ -1,0 +1,16 @@
+{
+  "success": false,
+  "exitCode": 1,
+  "output": "Health Check Results:\n- Broken Links: 0\n- Console Errors: 2",
+  "error": "Found 0 broken links and 2 console errors",
+  "testCommand": "visual-health-check",
+  "duration": 3929,
+  "screenshots": [
+    "/screenshots/86b820dkz/after_full.png"
+  ],
+  "brokenLinks": [],
+  "consoleErrors": [
+    "Console Error: Failed to load resource: the server responded with a status of 404 (Not Found)",
+    "Console Error: Failed to load resource: the server responded with a status of 404 ()"
+  ]
+}
