@@ -1,7 +1,7 @@
-# Task: change footer
+# Task: Change the footer
 
 ## 1. Goal + Acceptance Criteria
-**Objective**: Change the footer to blue and add a link to kalamazoowebsitedesign.com
+**Objective**: Change the footer to purple and add a link to kalamazoowebsitedesign.com
 
 **Requirements**:
 Review the task description above and identify all requirements.
@@ -12,8 +12,8 @@ Review the task description above and identify all requirements.
 - Local validation passes.
 
 ## 2. Metadata
-**ClickUp Task**: https://app.clickup.com/t/86b81ubyu
-**Task ID**: 86b81ubyu
+**ClickUp Task**: https://app.clickup.com/t/86b81wnvk
+**Task ID**: 86b81wnvk
 **Client**: Unknown
 **Client Folder**: D:\Users\socce\Desktop\KWD Dev\Kwd_dev\client-websites\jacks-roofing-llc
 **Status**: to do
@@ -32,7 +32,7 @@ Review the task description above and identify all requirements.
 1. **Development**: Implement requested changes.
 2. **Validation**: Run the validation command and ensure it passes.
 3. **Status Update**: Update `.cursor/status/current.json` with `state: "done"`, `percent: 100`, and `step: "Completed"`.
-4. **Commit**: Commit your changes with a message like `task: [86b81ubyu] description`.
+4. **Commit**: Commit your changes with a message like `task: [86b81wnvk] description`.
 5. **EXIT**: After committing and updating status, **EXIT IMMEDIATELY**. Do not wait for further instructions.
 
 ---

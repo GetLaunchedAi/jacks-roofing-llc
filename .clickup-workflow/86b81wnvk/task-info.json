@@ -1,11 +1,11 @@
 {
   "task": {
-    "id": "86b81ubyu",
+    "id": "86b81wnvk",
     "custom_id": null,
     "custom_item_id": 0,
-    "name": "change footer",
-    "text_content": "Change the footer to blue and add a link to kalamazoowebsitedesign.com",
-    "description": "Change the footer to blue and add a link to kalamazoowebsitedesign.com",
+    "name": "Change the footer",
+    "text_content": "Change the footer to purple and add a link to kalamazoowebsitedesign.com",
+    "description": "Change the footer to purple and add a link to kalamazoowebsitedesign.com",
     "status": {
       "id": "c90147421775_EcKIIMTE",
       "status": "to do",
@@ -13,9 +13,9 @@
       "orderindex": 0,
       "type": "open"
     },
-    "orderindex": "39916227.26628043500000000000000000000000",
-    "date_created": "1767718461634",
-    "date_updated": "1767718461682",
+    "orderindex": "39916226.23157049000000000000000000000000",
+    "date_created": "1767724520826",
+    "date_updated": "1767724520871",
     "date_closed": null,
     "date_done": null,
     "archived": false,
@@ -319,7 +319,7 @@
     "linked_tasks": [],
     "locations": [],
     "team_id": "9014770529",
-    "url": "https://app.clickup.com/t/86b81ubyu",
+    "url": "https://app.clickup.com/t/86b81wnvk",
     "sharing": {
       "public": false,
       "public_share_expires_on": null,
@@ -362,7 +362,7 @@
     },
     "attachments": []
   },
-  "taskId": "86b81ubyu",
+  "taskId": "86b81wnvk",
   "clientName": "jacks-roofing-llc",
   "clientFolder": "D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc"
 }

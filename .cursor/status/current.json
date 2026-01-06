@@ -1,0 +1,19 @@
+{
+  "state": "RUNNING",
+  "percent": 5,
+  "step": "Pre-flight checks",
+  "lastUpdate": "2026-01-06T18:59:03.302Z",
+  "notes": [
+    "Task transitioned from queue to running state.",
+    "Started processing task 86b81wnvk"
+  ],
+  "errors": [],
+  "task": {
+    "file": "0001_86b81wnvk.md",
+    "id": "0001",
+    "taskId": "86b81wnvk"
+  },
+  "startedAt": "2026-01-06T18:59:04.639Z",
+  "lastHeartbeat": "2026-01-06T18:59:17.366Z",
+  "pid": 25628
+}
