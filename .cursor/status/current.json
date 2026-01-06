@@ -2,18 +2,21 @@
   "state": "RUNNING",
   "percent": 5,
   "step": "Pre-flight checks",
-  "lastUpdate": "2026-01-06T20:19:57.683Z",
+  "lastUpdate": "2026-01-06T21:10:19.668Z",
   "notes": [
     "Task transitioned from queue to running state.",
-    "Started processing task 86b81wnvk"
+    "Started processing task 86b8203j1"
   ],
-  "errors": [],
   "task": {
-    "file": "0001_86b81wnvk.md",
+    "file": "0001_86b8203j1.md",
     "id": "0001",
-    "taskId": "86b81wnvk"
+    "taskId": "86b8203j1"
   },
-  "startedAt": "2026-01-06T20:19:58.944Z",
-  "lastHeartbeat": "2026-01-06T20:20:15.704Z",
-  "command": "wsl -d Ubuntu --cd D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc bash -c echo \"BASH_STARTING\"; export PATH=\"$HOME/.local/bin:$PATH\"; export CURSOR_API_KEY='key_50acc2442d941eff44bcbd3bcaf72a8bd1068a5462d2fcb180ae0362b18ab3d5'; echo \"BASH_ENV_READY\"; exec \"~/.local/bin/cursor-agent\" 'chat' 'Read CURSOR_TASK.md. Implement all task requirements. Run any validation steps if present. Commit changes. Update .cursor/status/current.json. Exit immediately.' '--force' '--output-format' 'stream-json' '--stream-partial-output'"
+  "startedAt": "2026-01-06T21:10:20.907Z",
+  "lastHeartbeat": "2026-01-06T21:10:33.531Z",
+  "pid": 10532,
+  "exitCode": 0,
+  "error": null,
+  "errors": [],
+  "command": "wsl -d Ubuntu --cd D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc bash -c echo \"BASH_STARTING\"; export PATH=\"$HOME/.local/bin:$PATH\"; export CURSOR_API_KEY='key_50acc2442d941eff44bcbd3bcaf72a8bd1068a5462d2fcb180ae0362b18ab3d5'; echo \"BASH_ENV_READY\"; exec \"~/.local/bin/cursor-agent\" 'chat' 'Open the CURSOR_TASK.md file and follow the instructions there.' '--force' '--output-format' 'stream-json' '--stream-partial-output'"
 }
