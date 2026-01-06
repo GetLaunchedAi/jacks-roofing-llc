@@ -152,6 +152,15 @@ footer {
     margin-top: 50px;
 }
 
+footer a {
+    color: #fff;
+    text-decoration: underline;
+}
+
+footer a:hover {
+    color: #f0f0f0;
+}
+
 /* Responsive */
 @media(max-width: 768px) {
     header h1, header nav {
