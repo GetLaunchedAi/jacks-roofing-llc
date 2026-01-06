@@ -1,13 +1,15 @@
 {
-  "state": "in_progress",
-  "metadata": {},
+  "state": "error",
+  "metadata": {
+    "testError": "Found 0 broken links and 2 console errors"
+  },
   "taskId": "86b8203j1",
   "clientFolder": "D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc",
   "branchName": "main",
   "createdAt": "2026-01-06T21:09:43.230Z",
-  "updatedAt": "2026-01-06T21:10:30.919Z",
-  "currentStep": "Triggering Cursor agent",
+  "updatedAt": "2026-01-06T21:12:07.388Z",
+  "currentStep": "Tests failed",
   "agentCompletion": {
-    "lastCheckedAt": "2026-01-06T21:10:30.918Z"
+    "lastCheckedAt": "2026-01-06T21:12:07.387Z"
   }
 }
