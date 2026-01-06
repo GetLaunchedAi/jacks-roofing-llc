@@ -1,0 +1,17 @@
+{
+  "state": "testing",
+  "metadata": {
+    "initialScreenshots": [
+      "/screenshots/86b82473a/before_full.png"
+    ]
+  },
+  "taskId": "86b82473a",
+  "clientFolder": "D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc",
+  "branchName": "main",
+  "createdAt": "2026-01-06T23:49:07.419Z",
+  "updatedAt": "2026-01-06T23:49:51.009Z",
+  "currentStep": "Running tests",
+  "agentCompletion": {
+    "completionDetectedAt": "2026-01-06T23:49:51.000Z"
+  }
+}
