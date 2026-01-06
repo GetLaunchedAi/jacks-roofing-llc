@@ -1,0 +1,13 @@
+{
+  "state": "in_progress",
+  "metadata": {},
+  "taskId": "86b820dkz",
+  "clientFolder": "D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc",
+  "branchName": "main",
+  "createdAt": "2026-01-06T21:20:29.457Z",
+  "updatedAt": "2026-01-06T22:22:56.530Z",
+  "currentStep": "Triggering Cursor agent",
+  "agentCompletion": {
+    "lastCheckedAt": "2026-01-06T22:22:56.529Z"
+  }
+}
