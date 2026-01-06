@@ -1,12 +1,11 @@
 {
-  "state": "done",
-  "percent": 100,
-  "step": "Completed",
-  "lastUpdate": "2026-01-06T19:05:06.585Z",
+  "state": "RUNNING",
+  "percent": 5,
+  "step": "Pre-flight checks",
+  "lastUpdate": "2026-01-06T20:19:57.683Z",
   "notes": [
     "Task transitioned from queue to running state.",
-    "Started processing task 86b81wnvk",
-    "Task completed: Footer changed to purple and link to kalamazoowebsitedesign.com added"
+    "Started processing task 86b81wnvk"
   ],
   "errors": [],
   "task": {
@@ -14,7 +13,7 @@
     "id": "0001",
     "taskId": "86b81wnvk"
   },
-  "startedAt": "2026-01-06T19:05:07.904Z",
-  "lastHeartbeat": "2026-01-06T19:05:22.143Z",
-  "pid": 20848
+  "startedAt": "2026-01-06T20:19:58.944Z",
+  "lastHeartbeat": "2026-01-06T20:20:15.704Z",
+  "command": "wsl -d Ubuntu --cd D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc bash -c echo \"BASH_STARTING\"; export PATH=\"$HOME/.local/bin:$PATH\"; export CURSOR_API_KEY='key_50acc2442d941eff44bcbd3bcaf72a8bd1068a5462d2fcb180ae0362b18ab3d5'; echo \"BASH_ENV_READY\"; exec \"~/.local/bin/cursor-agent\" 'chat' 'Read CURSOR_TASK.md. Implement all task requirements. Run any validation steps if present. Commit changes. Update .cursor/status/current.json. Exit immediately.' '--force' '--output-format' 'stream-json' '--stream-partial-output'"
 }
