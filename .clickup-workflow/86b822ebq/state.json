@@ -1,0 +1,15 @@
+{
+  "state": "error",
+  "metadata": {
+    "error": "Agent process appears to be hung (no heartbeat for 371 seconds). Check logs at D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc\\logs\\tasks\\86b822ebq"
+  },
+  "taskId": "86b822ebq",
+  "clientFolder": "D:\\Users\\socce\\Desktop\\KWD Dev\\Kwd_dev\\client-websites\\jacks-roofing-llc",
+  "branchName": "main",
+  "createdAt": "2026-01-06T22:34:25.209Z",
+  "updatedAt": "2026-01-06T22:34:44.498Z",
+  "currentStep": "Triggering Cursor agent",
+  "agentCompletion": {
+    "completionDetectedAt": "2026-01-06T22:34:44.490Z"
+  }
+}
