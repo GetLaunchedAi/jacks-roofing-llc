@@ -1,7 +1,7 @@
 {
-  "state": "RUNNING",
-  "percent": 5,
-  "step": "Pre-flight checks",
+  "state": "done",
+  "percent": 100,
+  "step": "Completed",
   "lastUpdate": "2026-01-06T21:11:46.140Z",
   "notes": [
     "Task transitioned from queue to running state.",
@@ -13,7 +13,7 @@
     "taskId": "86b8203j1"
   },
   "startedAt": "2026-01-06T21:11:47.374Z",
-  "lastHeartbeat": "2026-01-06T21:12:07.761Z",
+  "lastHeartbeat": "2026-01-06T21:12:10.280Z",
   "pid": 10532,
   "exitCode": 0,
   "error": null,
